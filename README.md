@@ -11,3 +11,7 @@ pip install imgkit pillow zpl
 # run example
 python main.py
 ```
+
+### helpful things
+* http://labelary.com/viewer.html
+    * you can copy the text contents of the .zpl file into this page to see it rendered
